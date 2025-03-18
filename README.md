@@ -26,10 +26,14 @@
   <img src="https://management30.com/wp-content/themes/m30/images/m30-logo.png" alt="Management 3.0" width="40" height="40"/> 
 </a>
 
-
-<h3 align="left">Connect with me:</h3>
+##
+<h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/leandro-barbosa-de-lurde-aba337198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa-alaff" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leandro-barbosa-de-lurde-aba337198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:le.barbosa@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5569984279799" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> 
+</a>
+
 </p>
 
 
